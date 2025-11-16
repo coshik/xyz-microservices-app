@@ -1,3 +1,6 @@
 Line from teammate
+
 Line from you
 Text added from feature branch
+
+Text added from develop branch
